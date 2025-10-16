@@ -1,0 +1,2598 @@
+{
+  "tripsData": {
+    "1745958781034": {
+      "id": 1745958781034,
+      "name": "Chicago, IL, USA",
+      "country": "United States",
+      "description": "The \"Windy City\" on the shores of Lake Michigan, famous for its bold architecture, deep-dish pizza, vibrant arts scene, and stunning skyline. A city of global influence in business, culture, and food, with a friendly, no-nonsense midwestern heart.",
+      "duration": "3 Days",
+      "travelers": "3-5 People",
+      "bestTimeToVisit": "Late Spring (May-June) or Early Fall (September-October) for pleasant weather and festivals. Summer is vibrant but crowded; winter is cold and windy.",
+      "mustTryFoods": [
+        "Deep-Dish Pizza (Lou Malnati's, Giordano's)",
+        "Chicago-style Hot Dog (no ketchup!)",
+        "Italian Beef Sandwich (Al's #1 Italian Beef)",
+        "Garrett Popcorn (Chicago Mix)",
+        "Jibarito (a sandwich with plantains instead of bread)"
+      ],
+      "transportTips": "Use the \"L\" train system (CTA) and buses with a Ventra card. Divvy bikes are great for the Lakefront Trail. Rideshares are plentiful. Avoid driving downtown; parking is expensive.",
+      "culturalNotes": "A fast-paced, sports-loving (Cubs, White Sox, Bulls, Bears) city with a strong neighborhood identity. Tipping (15-20%) is standard. Known for its improv and comedy scene.",
+      "packingSuggestions": [
+        "Comfortable walking shoes",
+        "Layered clothing for highly variable weather",
+        "A warm jacket for windy days and cool evenings by the lake",
+        "An umbrella or raincoat"
+      ],
+      "visaInfo": "ESTA or Visa required for most non-US citizens.",
+      "language": "English",
+      "localLingo": [
+        "The \"L\" (elevated train)",
+        "\"The Loop\" (downtown business district)",
+        "\"Da Bears\" (Chicago Bears football team)"
+      ],
+      "currency": "US Dollar (USD)",
+      "payment": "Credit/debit cards are accepted everywhere. Carry some cash for small tips and neighborhood spots.",
+      "powerPlugs": "Type A & B, 120V",
+      "healthSafety": "Generally safe in tourist areas. Be aware of your surroundings, especially at night on public transport.",
+      "hotels": [
+        {
+          "name": "The Peninsula Chicago",
+          "price": "$800+",
+          "rating": "4.5",
+          "type": "Luxury",
+          "location": "Magnificent Mile"
+        },
+        {
+          "name": "Four Seasons Hotel Chicago",
+          "price": "$700+",
+          "rating": "4.6",
+          "type": "Luxury",
+          "location": "Magnificent Mile"
+        },
+        {
+          "name": "Waldorf Astoria Chicago",
+          "price": "$600+",
+          "rating": "4.4",
+          "type": "Luxury",
+          "location": "Gold Coast"
+        }
+      ],
+      "accommodationZones": [
+        {
+          "name": "The Loop/River North",
+          "description": "Best for first-time visitors; close to major attractions, business centers, and nightlife."
+        },
+        {
+          "name": "Magnificent Mile",
+          "description": "Upscale shopping and hotels, central location."
+        },
+        {
+          "name": "Wicker Park / Bucktown",
+          "description": "Trendy, artistic neighborhood with great restaurants, bars, and boutiques."
+        },
+        {
+          "name": "Lincoln Park",
+          "description": "Residential, upscale, and family-friendly, close to the zoo and park."
+        }
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "theme": "Architecture & The Loop",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "place": "Millennium Park & Cloud Gate (\"The Bean\")",
+              "note": "Take iconic photos and explore the park.",
+              "duration": "1 hour",
+              "ticket": "Free"
+            },
+            {
+              "time": "12:00 PM",
+              "place": "Lunch at Revival Food Hall",
+              "note": "A variety of local food vendors.",
+              "duration": "1 hour",
+              "ticket": "Varies"
+            },
+            {
+              "time": "2:00 PM",
+              "place": "Chicago Architecture Center River Cruise",
+              "note": "Award-winning tour of Chicago's iconic skyscrapers.",
+              "duration": "1.5 hours",
+              "ticket": "~$50"
+            },
+            {
+              "time": "7:00 PM",
+              "place": "Dinner in River North",
+              "note": "Try deep-dish pizza at Lou Malnati's or Giordano's.",
+              "duration": "1.5 hours",
+              "ticket": "Varies"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Museums & Lakefront",
+          "activities": [
+            {
+              "time": "9:30 AM",
+              "place": "The Art Institute of Chicago",
+              "note": "World-class art museum. See \"A Sunday on La Grande Jatte\".",
+              "duration": "3 hours",
+              "ticket": "~$25"
+            },
+            {
+              "time": "1:30 PM",
+              "place": "Lunch near the museum",
+              "note": "Quick bite before heading to the lake.",
+              "duration": "1 hour",
+              "ticket": "Varies"
+            },
+            {
+              "time": "3:00 PM",
+              "place": "North Avenue Beach",
+              "note": "Rent bikes or just relax by the lake.",
+              "duration": "2 hours",
+              "ticket": "Free (Bike rental extra)"
+            },
+            {
+              "time": "8:00 PM",
+              "place": "Catch a show",
+              "note": "See a play in the Theater District or improv at The Second City.",
+              "duration": "2 hours",
+              "ticket": "Varies"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Neighborhoods & Farewell",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "place": "Wicker Park / Bucktown",
+              "note": "Explore indie shops, street art, and cool cafes.",
+              "duration": "2 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "12:30 PM",
+              "place": "Brunch in Wicker Park",
+              "note": "Trendy brunch spots like Dove's Luncheonette.",
+              "duration": "1.5 hours",
+              "ticket": "Varies"
+            },
+            {
+              "time": "2:30 PM",
+              "place": "Lincoln Park Zoo",
+              "note": "One of the last free admission zoos in the country.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            }
+          ]
+        }
+      ],
+      "extendedActivities": {
+        "family": [
+          "Shedd Aquarium",
+          "Field Museum",
+          "Navy Pier Ferris Wheel"
+        ],
+        "adventurous": [
+          "360 CHICAGO Tilt experience",
+          "Kayaking on the Chicago River"
+        ],
+        "relaxing": [
+          "Grant Park Buckingham Fountain",
+          "Garfield Park Conservatory"
+        ],
+        "cultural": [
+          "DuSable Black History Museum",
+          "National Museum of Mexican Art",
+          "Chicago Cultural Center"
+        ]
+      },
+      "budget": {
+        "breakdown": {
+          "budget": {
+            "hotels": 300,
+            "food": 150,
+            "tickets": 200,
+            "transport": 100,
+            "total": 750
+          },
+          "midRange": {
+            "hotels": 600,
+            "food": 350,
+            "tickets": 500,
+            "transport": 200,
+            "total": 1650
+          },
+          "luxury": {
+            "hotels": 1800,
+            "food": 700,
+            "tickets": 1000,
+            "transport": 400,
+            "total": 3900
+          }
+        }
+      },
+      "imageSuggestions": [
+        "The Bean reflection",
+        "Skyline from the River Cruise",
+        "North Avenue Beach with the city behind you",
+        "Wicker Park street art"
+      ]
+    },
+    "1745959400000": {
+      "id": 1745959400000,
+      "name": "Santorini, Greece",
+      "country": "Greece",
+      "description": "A stunning volcanic island in the Aegean Sea, renowned for its dramatic caldera views, whitewashed cubic houses, blue-domed churches, and breathtaking sunsets. A quintessential romantic and photographic destination.",
+      "duration": "4 Days",
+      "travelers": "2-4 People",
+      "bestTimeToVisit": "Shoulder seasons: April-May or September-October to avoid extreme crowds and heat while enjoying warm weather. July-August is peak season and very hot/busy.",
+      "mustTryFoods": [
+        "Fava (yellow split pea puree)",
+        "Tomato Keftedes (fritters)",
+        "Fresh Grilled Octopus",
+        "Santorini Assyrtiko Wine",
+        "White Eggplant"
+      ],
+      "transportTips": "Rent an ATV or a small car for maximum freedom to explore. Local buses connect main towns (Fira, Oia) but can be infrequent and crowded. Taxis are expensive and scarce.",
+      "culturalNotes": "A relaxed, romantic atmosphere. Dress modestly when visiting churches (cover shoulders and knees). Dinner is typically eaten late (9-11 PM). Life moves slowly here – embrace it.",
+      "packingSuggestions": [
+        "Sunglasses and a wide-brimmed hat",
+        "Comfortable sandals for cobblestone streets",
+        "A nice outfit for a sunset dinner",
+        "Swimsuits, beach cover-up, and strong sunscreen"
+      ],
+      "visaInfo": "Schengen Visa required for many non-EU nationals.",
+      "language": "Greek",
+      "localLingo": [
+        "Yasas (Hello)",
+        "Efharisto (Thank you)",
+        "Parakalo (Please/You're welcome)"
+      ],
+      "currency": "Euro (EUR)",
+      "payment": "Cards accepted in most hotels and restaurants, but carry cash for smaller shops, cafes, and bus fares.",
+      "powerPlugs": "Type C & F, 230V",
+      "healthSafety": "Very safe. Watch your step on steep, uneven paths. Stay hydrated in the summer heat.",
+      "hotels": [
+        {
+          "name": "Canaves Oia Suites",
+          "price": "$900+",
+          "rating": "4.8",
+          "type": "Luxury, Caldera View",
+          "location": "Oia"
+        },
+        {
+          "name": "Katikies Hotel",
+          "price": "$850+",
+          "rating": "4.7",
+          "type": "Luxury, Infinity Pool",
+          "location": "Oia"
+        },
+        {
+          "name": "Mystique, a Luxury Collection",
+          "price": "$950+",
+          "rating": "4.9",
+          "type": "Luxury, Cave Suite",
+          "location": "Oia"
+        }
+      ],
+      "accommodationZones": [
+        {
+          "name": "Oia",
+          "description": "The most famous and picturesque village. Best for sunset views, luxury stays, and photography. Can be extremely crowded."
+        },
+        {
+          "name": "Fira",
+          "description": "The bustling capital. More affordable options, great nightlife, and the central bus hub for the island."
+        },
+        {
+          "name": "Imerovigli",
+          "description": "A quieter, more romantic alternative to Oia, with equally stunning caldera views. Often called the \"balcony to the Aegean\"."
+        },
+        {
+          "name": "Perissa/Kamari",
+          "description": "Beach towns on the east coast with black sand beaches, more affordable hotels, and a different vibe."
+        }
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "theme": "Arrival & Oia Sunset",
+          "activities": [
+            {
+              "time": "3:00 PM",
+              "place": "Check into your caldera-view hotel",
+              "note": "Settle in and enjoy the stunning view with a glass of local wine.",
+              "duration": "1 hour",
+              "ticket": "N/A"
+            },
+            {
+              "time": "5:00 PM",
+              "place": "Explore Oia Village",
+              "note": "Wander through the charming, narrow streets, find the blue-domed churches, and browse art galleries.",
+              "duration": "2 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "7:30 PM",
+              "place": "Sunset in Oia",
+              "note": "Find a prime spot (like the Oia Castle ruins or a reserved table at a cliffside restaurant) for the world-famous sunset.",
+              "duration": "1 hour",
+              "ticket": "Free"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Beaches & Wine",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "place": "Red Beach",
+              "note": "Marvel at the unique red volcanic cliffs and swim in the cove. Access involves a short walk.",
+              "duration": "2 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "1:00 PM",
+              "place": "Lunch in Akrotiri",
+              "note": "Seafood lunch at a taverna near the ancient site.",
+              "duration": "1.5 hours",
+              "ticket": "Varies"
+            },
+            {
+              "time": "4:00 PM",
+              "place": "Santo Winery",
+              "note": "Guided wine tasting with panoramic caldera views. Try the Assyrtiko and Vinsanto wines.",
+              "duration": "2 hours",
+              "ticket": "~$30"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Fira & The Caldera Path",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "place": "Fira",
+              "note": "Explore the capital. Shop, visit the Museum of Prehistoric Thera, and walk the caldera path north.",
+              "duration": "3 hours",
+              "ticket": "Museum fee varies"
+            },
+            {
+              "time": "1:00 PM",
+              "place": "Lunch in Fira",
+              "note": "Dine with a view on the caldera edge.",
+              "duration": "1.5 hours",
+              "ticket": "Varies"
+            },
+            {
+              "time": "4:00 PM",
+              "place": "Hike from Fira to Oia",
+              "note": "Scenic 2-3 hour hike along the caldera rim. Start from Fira for the best light. Bring water!",
+              "duration": "3 hours",
+              "ticket": "Free"
+            }
+          ]
+        },
+        {
+          "day": 4,
+          "theme": "Volcano & Departure",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "place": "Volcano & Hot Springs Boat Tour",
+              "note": "Hike the active Nea Kameni volcano and swim in the warm, sulphuric hot springs of Palia Kameni.",
+              "duration": "4 hours",
+              "ticket": "~$40"
+            },
+            {
+              "time": "3:00 PM",
+              "place": "Last-minute souvenir shopping in Fira",
+              "note": "Pick up some local crafts, olive oil, and wine.",
+              "duration": "1 hour",
+              "ticket": "Free"
+            }
+          ]
+        }
+      ],
+      "extendedActivities": {
+        "romantic": [
+          "Private sunset catamaran cruise",
+          "Dinner at a cliffside restaurant in Imerovigli",
+          "Wine tasting at a boutique vineyard like Domaine Sigalas"
+        ],
+        "adventurous": [
+          "Hiking the entire Fira-Oia trail",
+          "Kayaking in the caldera",
+          "Scuba diving at the volcanic sites"
+        ],
+        "historical": [
+          "Ancient Thera ruins",
+          "Akrotiri Archaeological Site (Minoan \"Pompeii\")"
+        ],
+        "relaxing": [
+          "Spend a day at Perivolos Beach",
+          "Relax at your hotel's infinity pool",
+          "Visit the open-air cinema in Kamari"
+        ]
+      },
+      "budget": {
+        "breakdown": {
+          "budget": {
+            "hotels": 400,
+            "food": 200,
+            "tickets": 100,
+            "transport": 100,
+            "total": 800
+          },
+          "midRange": {
+            "hotels": 1000,
+            "food": 450,
+            "tickets": 250,
+            "transport": 300,
+            "total": 2000
+          },
+          "luxury": {
+            "hotels": 3000,
+            "food": 1000,
+            "tickets": 500,
+            "transport": 600,
+            "total": 5100
+          }
+        }
+      },
+      "imageSuggestions": [
+        "Blue domes of Oia against the sea",
+        "Caldera sunset from Imerovigli",
+        "Red Beach landscape",
+        "Whitewashed alleyways with pink bougainvillea"
+      ]
+    },
+    "1745960000000": {
+      "id": 1745960000000,
+      "name": "Bali, Indonesia",
+      "country": "Indonesia",
+      "description": "The \"Island of the Gods\" - a tropical paradise known for its volcanic mountains, iconic rice paddies, stunning beaches, and deeply spiritual Hindu culture. A perfect blend of adventure, relaxation, and cultural immersion.",
+      "duration": "7 Days",
+      "travelers": "2-4 People",
+      "bestTimeToVisit": "April to October (dry season). May, June, and September are ideal for fewer crowds. November-March is rainy season but still enjoyable.",
+      "mustTryFoods": [
+        "Nasi Goreng (Indonesian fried rice)",
+        "Babi Guling (suckling pig)",
+        "Satay (grilled meat skewers)",
+        "Gado-Gado (vegetable salad with peanut sauce)",
+        "Lawar (traditional Balinese mixed dish)"
+      ],
+      "transportTips": "Rent a scooter for maximum flexibility (if experienced). Use Gojek/Grab apps for affordable rides and food delivery. Private drivers are economical for full-day tours.",
+      "culturalNotes": "Very spiritual island with daily offerings. Dress modestly when visiting temples (sarongs provided). Use right hand for giving/receiving. Respect religious ceremonies you may encounter.",
+      "packingSuggestions": [
+        "Lightweight clothing",
+        "Swimwear and beach cover-ups",
+        "Mosquito repellent",
+        "Sarong for temple visits",
+        "Reef-safe sunscreen",
+        "Comfortable walking shoes"
+      ],
+      "visaInfo": "Visa-free entry for many nationalities (30 days). Check requirements for your country.",
+      "language": "Indonesian & Balinese",
+      "localLingo": [
+        "Selamat pagi (Good morning)",
+        "Terima kasih (Thank you)",
+        "Berapa harganya? (How much?)"
+      ],
+      "currency": "Indonesian Rupiah (IDR)",
+      "payment": "Cash is king, especially in local markets. Cards accepted in hotels and upscale restaurants.",
+      "powerPlugs": "Type C & F, 230V",
+      "healthSafety": "Drink bottled water. Be cautious with street food. Use reliable transportation services.",
+      "hotels": [
+        {
+          "name": "Four Seasons Resort Bali at Sayan",
+          "price": "$600+",
+          "rating": "4.8",
+          "type": "Luxury Jungle Resort",
+          "location": "Ubud"
+        },
+        {
+          "name": "The St. Regis Bali Resort",
+          "price": "$700+",
+          "rating": "4.7",
+          "type": "Luxury Beachfront",
+          "location": "Nusa Dua"
+        },
+        {
+          "name": "Viceroy Bali",
+          "price": "$500+",
+          "rating": "4.9",
+          "type": "Luxury Villa Resort",
+          "location": "Ubud"
+        }
+      ],
+      "accommodationZones": [
+        {
+          "name": "Ubud",
+          "description": "Cultural heart of Bali - perfect for rice terraces, yoga, temples, and arts."
+        },
+        {
+          "name": "Seminyak",
+          "description": "Upscale beach area with luxury villas, fine dining, and boutique shopping."
+        },
+        {
+          "name": "Canggu",
+          "description": "Trendy surf town with digital nomad scene, beach clubs, and hip cafes."
+        },
+        {
+          "name": "Nusa Dua",
+          "description": "Resort area with beautiful beaches and luxury hotels, great for families."
+        }
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "theme": "Ubud Cultural Immersion",
+          "activities": [
+            {
+              "time": "8:00 AM",
+              "place": "Sacred Monkey Forest Sanctuary",
+              "note": "Explore the forest temple and interact with monkeys.",
+              "duration": "2 hours",
+              "ticket": "~$5"
+            },
+            {
+              "time": "11:00 AM",
+              "place": "Ubud Art Market",
+              "note": "Traditional crafts and souvenirs.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "2:00 PM",
+              "place": "Tegalalang Rice Terraces",
+              "note": "Iconic UNESCO-recognized rice paddies.",
+              "duration": "2 hours",
+              "ticket": "Small donation"
+            },
+            {
+              "time": "6:00 PM",
+              "place": "Traditional Balinese Dance Performance",
+              "note": "At Ubud Palace.",
+              "duration": "1.5 hours",
+              "ticket": "~$8"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Temples & Waterfalls",
+          "activities": [
+            {
+              "time": "7:00 AM",
+              "place": "Mount Batur Sunrise Trek",
+              "note": "Active volcano hike with stunning sunrise views.",
+              "duration": "4 hours",
+              "ticket": "~$35"
+            },
+            {
+              "time": "1:00 PM",
+              "place": "Tirta Empul Water Temple",
+              "note": "Holy spring water temple for ritual purification.",
+              "duration": "1.5 hours",
+              "ticket": "~$3"
+            },
+            {
+              "time": "4:00 PM",
+              "place": "Tegenungan Waterfall",
+              "note": "Beautiful waterfall for swimming and photos.",
+              "duration": "1.5 hours",
+              "ticket": "~$2"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Beach Day in South Bali",
+          "activities": [
+            {
+              "time": "9:00 AM",
+              "place": "Jimbaran Bay",
+              "note": "Relax on the beach and visit fish market.",
+              "duration": "2 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "12:00 PM",
+              "place": "Uluwatu Temple",
+              "note": "Cliffside temple with ocean views.",
+              "duration": "1.5 hours",
+              "ticket": "~$3"
+            },
+            {
+              "time": "6:00 PM",
+              "place": "Kecak Fire Dance & Seafood Dinner",
+              "note": "Sunset dance performance and beachfront dining.",
+              "duration": "2 hours",
+              "ticket": "~$25"
+            }
+          ]
+        }
+      ],
+      "extendedActivities": {
+        "adventurous": [
+          "White water rafting on Ayung River",
+          "Surfing lessons in Kuta",
+          "ATV jungle tours"
+        ],
+        "relaxing": [
+          "Traditional Balinese massage",
+          "Beach club day at Potato Head",
+          "Yoga class in Ubud"
+        ],
+        "cultural": [
+          "Balinese cooking class",
+          "Silver making workshop in Celuk",
+          "Visit traditional villages"
+        ],
+        "nature": [
+          "Dolphin watching in Lovina",
+          "Snorkeling in Amed",
+          "West Bali National Park"
+        ]
+      },
+      "budget": {
+        "breakdown": {
+          "budget": {
+            "hotels": 200,
+            "food": 100,
+            "tickets": 50,
+            "transport": 80,
+            "total": 430
+          },
+          "midRange": {
+            "hotels": 500,
+            "food": 200,
+            "tickets": 150,
+            "transport": 150,
+            "total": 1000
+          },
+          "luxury": {
+            "hotels": 1500,
+            "food": 400,
+            "tickets": 300,
+            "transport": 300,
+            "total": 2500
+          }
+        }
+      },
+      "imageSuggestions": [
+        "Tegalalang Rice Terraces at sunrise",
+        "Uluwatu Temple on the cliffs",
+        "Traditional Balinese offerings",
+        "Beach sunset with palm trees"
+      ]
+    },
+    "1745961000000": {
+      "id": 1745961000000,
+      "name": "Kyoto, Japan",
+      "country": "Japan",
+      "description": "The cultural heart of Japan, famous for its countless Buddhist temples, Shinto shrines, traditional wooden houses, imperial palaces, and exquisite gardens. A city where ancient traditions meet modern life.",
+      "duration": "5 Days",
+      "travelers": "2-4 People",
+      "bestTimeToVisit": "Spring (March-May) for cherry blossoms or Autumn (October-November) for fall colors. Summer is hot/humid; winter is cold but less crowded.",
+      "mustTryFoods": [
+        "Kaiseki Ryori (traditional multi-course meal)",
+        "Yudofu (tofu hot pot)",
+        "Matcha and wagashi (green tea and sweets)",
+        "Kyo-ryori (Kyoto-style cuisine)",
+        "Yatsuhashi (sweet cinnamon treats)"
+      ],
+      "transportTips": "Get a IC card (Suica/Pasmo) for trains/buses. Kyoto city buses are excellent for reaching temples. Rent a bicycle for local exploration. Bullet train (Shinkansen) from Tokyo.",
+      "culturalNotes": "Bow when greeting. Remove shoes when entering temples and traditional buildings. Quiet and respectful behavior expected, especially at religious sites. No tipping culture.",
+      "packingSuggestions": [
+        "Comfortable walking shoes",
+        "Layered clothing",
+        "Small bag for carrying shoes",
+        "Modest clothing for temple visits",
+        "Portable umbrella"
+      ],
+      "visaInfo": "Visa requirements vary by nationality. Many countries get 90-day visa-free entry.",
+      "language": "Japanese",
+      "localLingo": [
+        "Konnichiwa (Hello)",
+        "Arigato gozaimasu (Thank you)",
+        "Sumimasen (Excuse me/Sorry)"
+      ],
+      "currency": "Japanese Yen (JPY)",
+      "payment": "Cash is still widely used, especially at smaller establishments. Credit cards accepted in hotels and larger stores.",
+      "powerPlugs": "Type A & B, 100V",
+      "healthSafety": "Extremely safe. Tap water is drinkable. Excellent public hygiene.",
+      "hotels": [
+        {
+          "name": "The Ritz-Carlton, Kyoto",
+          "price": "$800+",
+          "rating": "4.8",
+          "type": "Luxury Riverside",
+          "location": "Kamogawa River"
+        },
+        {
+          "name": "Four Seasons Hotel Kyoto",
+          "price": "$750+",
+          "rating": "4.7",
+          "type": "Luxury Garden Hotel",
+          "location": "Historic District"
+        },
+        {
+          "name": "Hyatt Regency Kyoto",
+          "price": "$400+",
+          "rating": "4.5",
+          "type": "Luxury",
+          "location": "Higashiyama"
+        }
+      ],
+      "accommodationZones": [
+        {
+          "name": "Gion & Higashiyama",
+          "description": "Traditional district with geisha culture, historic streets, and major temples."
+        },
+        {
+          "name": "Central Kyoto",
+          "description": "Convenient for transportation, shopping, and modern amenities."
+        },
+        {
+          "name": "Arashiyama",
+          "description": "Scenic western district with bamboo forest and river views."
+        },
+        {
+          "name": "Fushimi",
+          "description": "Famous for Fushimi Inari Shrine and sake breweries."
+        }
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "theme": "Eastern Temples & Geisha District",
+          "activities": [
+            {
+              "time": "8:00 AM",
+              "place": "Kiyomizu-dera Temple",
+              "note": "Wooden temple with panoramic city views.",
+              "duration": "2 hours",
+              "ticket": "~$4"
+            },
+            {
+              "time": "11:00 AM",
+              "place": "Sannen-zaka and Ninen-zaka",
+              "note": "Preserved historic streets with traditional shops.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "2:00 PM",
+              "place": "Yasaka Shrine",
+              "note": "Beautiful Shinto shrine in Gion district.",
+              "duration": "1 hour",
+              "ticket": "Free"
+            },
+            {
+              "time": "6:00 PM",
+              "place": "Gion District",
+              "note": "Evening walk to spot geisha and maiko.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Arashiyama Bamboo & Gardens",
+          "activities": [
+            {
+              "time": "7:00 AM",
+              "place": "Arashiyama Bamboo Grove",
+              "note": "Arrive early to avoid crowds in the magical bamboo forest.",
+              "duration": "1 hour",
+              "ticket": "Free"
+            },
+            {
+              "time": "9:00 AM",
+              "place": "Tenryu-ji Temple",
+              "note": "UNESCO World Heritage site with stunning garden.",
+              "duration": "1.5 hours",
+              "ticket": "~$5"
+            },
+            {
+              "time": "1:00 PM",
+              "place": "Monkey Park Iwatayama",
+              "note": "Hike to see wild monkeys with city views.",
+              "duration": "2 hours",
+              "ticket": "~$5"
+            },
+            {
+              "time": "4:00 PM",
+              "place": "Kinkaku-ji (Golden Pavilion)",
+              "note": "Gold-leaf covered temple reflecting in pond.",
+              "duration": "1 hour",
+              "ticket": "~$4"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Northern Kyoto & Imperial Palace",
+          "activities": [
+            {
+              "time": "9:00 AM",
+              "place": "Kyoto Imperial Palace",
+              "note": "Former ruling palace of Japan (reservation recommended).",
+              "duration": "2 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "1:00 PM",
+              "place": "Nijo Castle",
+              "note": "Historic castle with \"nightingale floors\".",
+              "duration": "2 hours",
+              "ticket": "~$6"
+            },
+            {
+              "time": "4:00 PM",
+              "place": "Nishiki Market",
+              "note": "\"Kyoto's Kitchen\" - food market with local specialties.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            }
+          ]
+        }
+      ],
+      "extendedActivities": {
+        "cultural": [
+          "Tea ceremony experience",
+          "Kimono rental and photoshoot",
+          "Calligraphy workshop"
+        ],
+        "dayTrips": [
+          "Nara deer park and temples",
+          "Osaka for street food and castle",
+          "Uji for green tea plantations"
+        ],
+        "seasonal": [
+          "Cherry blossom viewing (hanami)",
+          "Autumn leaf viewing (momijigari)",
+          "Summer festivals (matsuri)"
+        ],
+        "spiritual": [
+          "Fushimi Inari Shrine torii gates",
+          "Early morning Zen meditation",
+          "Philosopher's Path walk"
+        ]
+      },
+      "budget": {
+        "breakdown": {
+          "budget": {
+            "hotels": 350,
+            "food": 150,
+            "tickets": 100,
+            "transport": 120,
+            "total": 720
+          },
+          "midRange": {
+            "hotels": 800,
+            "food": 300,
+            "tickets": 200,
+            "transport": 200,
+            "total": 1500
+          },
+          "luxury": {
+            "hotels": 2000,
+            "food": 600,
+            "tickets": 400,
+            "transport": 400,
+            "total": 3400
+          }
+        }
+      },
+      "imageSuggestions": [
+        "Fushimi Inari torii gates pathway",
+        "Geisha in Gion district",
+        "Golden Pavilion reflection",
+        "Bamboo forest sunlight"
+      ]
+    },
+    "1745962000000": {
+      "id": 1745962000000,
+      "name": "Paris, France",
+      "country": "France",
+      "description": "The \"City of Light\" - a global center for art, fashion, gastronomy, and culture. Famous for its iconic landmarks, world-class museums, charming neighborhoods, and romantic atmosphere along the Seine River.",
+      "duration": "4 Days",
+      "travelers": "2 People",
+      "bestTimeToVisit": "Spring (April-June) or Fall (September-October) for pleasant weather. Summer is busy; winter is cold but magical around Christmas.",
+      "mustTryFoods": [
+        "Croissant and café au lait",
+        "Steak frites",
+        "Macarons (Ladurée, Pierre Hermé)",
+        "Croque Monsieur",
+        "Wine and cheese platter",
+        "Escargots",
+        "Crème Brûlée"
+      ],
+      "transportTips": "Metro is efficient and covers the entire city. Walkable central areas. Consider Paris Visite travel card for unlimited transport. Uber/Bolt available.",
+      "culturalNotes": "Greet with \"Bonjour\" when entering shops. Dinner typically starts at 8 PM. Dress stylishly but comfortably. Learn basic French phrases - it's appreciated.",
+      "packingSuggestions": [
+        "Comfortable walking shoes",
+        "Stylish casual outfits",
+        "Light jacket or sweater",
+        "Small crossbody bag",
+        "Umbrella or raincoat"
+      ],
+      "visaInfo": "Schengen Visa required for many non-EU nationals.",
+      "language": "French",
+      "localLingo": [
+        "Bonjour (Hello)",
+        "Merci (Thank you)",
+        "S'il vous plaît (Please)",
+        "Au revoir (Goodbye)"
+      ],
+      "currency": "Euro (EUR)",
+      "payment": "Credit cards widely accepted. Some small shops may prefer cash. Contactless payments common.",
+      "powerPlugs": "Type E, 230V",
+      "healthSafety": "Generally safe but beware of pickpockets in tourist areas and metro. Keep valuables secure.",
+      "hotels": [
+        {
+          "name": "The Ritz Paris",
+          "price": "$1000+",
+          "rating": "4.9",
+          "type": "Legendary Luxury",
+          "location": "Place Vendôme"
+        },
+        {
+          "name": "Four Seasons Hotel George V",
+          "price": "$1200+",
+          "rating": "4.8",
+          "type": "Palace Hotel",
+          "location": "Champs-Élysées"
+        },
+        {
+          "name": "Shangri-La Hotel Paris",
+          "price": "$900+",
+          "rating": "4.7",
+          "type": "Palace Hotel",
+          "location": "16th Arrondissement"
+        }
+      ],
+      "accommodationZones": [
+        {
+          "name": "Saint-Germain-des-Prés",
+          "description": "Historic literary quarter with charming cafes and art galleries."
+        },
+        {
+          "name": "Le Marais",
+          "description": "Trendy neighborhood with boutiques, museums, and vibrant nightlife."
+        },
+        {
+          "name": "Champs-Élysées",
+          "description": "Iconic avenue with luxury shopping and grand hotels."
+        },
+        {
+          "name": "Montmartre",
+          "description": "Artistic hilltop village with Sacré-Cœur and charming streets."
+        }
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "theme": "Iconic Landmarks",
+          "activities": [
+            {
+              "time": "9:00 AM",
+              "place": "Eiffel Tower",
+              "note": "Book tickets in advance for summit access.",
+              "duration": "2.5 hours",
+              "ticket": "~$28"
+            },
+            {
+              "time": "12:30 PM",
+              "place": "Lunch in 7th Arrondissement",
+              "note": "Traditional French bistro experience.",
+              "duration": "1.5 hours",
+              "ticket": "Varies"
+            },
+            {
+              "time": "2:30 PM",
+              "place": "Arc de Triomphe",
+              "note": "Climb for panoramic views of Champs-Élysées.",
+              "duration": "1.5 hours",
+              "ticket": "~$13"
+            },
+            {
+              "time": "5:00 PM",
+              "place": "Seine River Cruise",
+              "note": "See landmarks from the water, especially beautiful at sunset.",
+              "duration": "1 hour",
+              "ticket": "~$17"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Art & Museums",
+          "activities": [
+            {
+              "time": "9:00 AM",
+              "place": "Louvre Museum",
+              "note": "Pre-book tickets. Focus on highlights: Mona Lisa, Venus de Milo.",
+              "duration": "3 hours",
+              "ticket": "~$17"
+            },
+            {
+              "time": "1:00 PM",
+              "place": "Jardin des Tuileries",
+              "note": "Relax in formal gardens between Louvre and Place de la Concorde.",
+              "duration": "1 hour",
+              "ticket": "Free"
+            },
+            {
+              "time": "3:00 PM",
+              "place": "Musée d'Orsay",
+              "note": "Impressionist masterpieces in beautiful former railway station.",
+              "duration": "2.5 hours",
+              "ticket": "~$16"
+            },
+            {
+              "time": "7:30 PM",
+              "place": "Montmartre & Sacré-Cœur",
+              "note": "Evening visit for sunset views and artistic atmosphere.",
+              "duration": "2 hours",
+              "ticket": "Free"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Neighborhood Charm",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "place": "Le Marais Exploration",
+              "note": "Historic Jewish quarter with trendy boutiques and cafes.",
+              "duration": "2 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "12:30 PM",
+              "place": "Place des Vosges",
+              "note": "Paris' oldest planned square for picnic lunch.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "2:30 PM",
+              "place": "Notre-Dame Cathedral",
+              "note": "Exterior viewing and Île de la Cité walk.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "5:00 PM",
+              "place": "Luxembourg Gardens",
+              "note": "Beautiful formal gardens perfect for afternoon stroll.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            }
+          ]
+        }
+      ],
+      "extendedActivities": {
+        "romantic": [
+          "Sunset at Trocadéro",
+          "Lock bridge on Pont des Arts",
+          "Evening at Moulin Rouge"
+        ],
+        "cultural": [
+          "Opéra Garnier tour",
+          "Rodin Museum garden",
+          "Picasso Museum"
+        ],
+        "shopping": [
+          "Galeries Lafayette",
+          "Avenue Montaigne luxury boutiques",
+          "Saint-Ouen flea market"
+        ],
+        "dayTrips": [
+          "Versailles Palace",
+          "Giverny Monet's Garden",
+          "Champagne region"
+        ]
+      },
+      "budget": {
+        "breakdown": {
+          "budget": {
+            "hotels": 400,
+            "food": 200,
+            "tickets": 150,
+            "transport": 80,
+            "total": 830
+          },
+          "midRange": {
+            "hotels": 1000,
+            "food": 400,
+            "tickets": 250,
+            "transport": 150,
+            "total": 1800
+          },
+          "luxury": {
+            "hotels": 3000,
+            "food": 800,
+            "tickets": 500,
+            "transport": 300,
+            "total": 4600
+          }
+        }
+      },
+      "imageSuggestions": [
+        "Eiffel Tower from Trocadéro",
+        "Louvre Pyramid at night",
+        "Montmartre street scenes",
+        "Seine River bridges at golden hour"
+      ]
+    },
+    "1745963000000": {
+      "id": 1745963000000,
+      "name": "Istanbul, Turkey",
+      "country": "Turkey",
+      "description": "The magical city straddling two continents, where East meets West. A vibrant metropolis with Byzantine and Ottoman treasures, bustling bazaars, magnificent mosques, and the beautiful Bosphorus Strait.",
+      "duration": "4 Days",
+      "travelers": "2-4 People",
+      "bestTimeToVisit": "Spring (April-May) or Autumn (September-October) for mild weather. Summer can be hot and crowded; winter is cold but fewer tourists.",
+      "mustTryFoods": [
+        "Turkish Breakfast (kahvaltı)",
+        "Kebabs (various types)",
+        "Baklava and Turkish delight",
+        "Meze platter",
+        "Balık Ekmek (fish sandwich)",
+        "Turkish coffee",
+        "Simit (sesame bread ring)"
+      ],
+      "transportTips": "Use Istanbulkart for all public transport. Tram is efficient for Sultanahmet area. Ferries are scenic for Bosphorus travel. Taxis use meters - ensure they're on.",
+      "culturalNotes": "Conservative dress for mosque visits (cover shoulders, knees, headscarves for women). Remove shoes in mosques. Haggle in bazaars but be respectful. Tea (çay) culture is everywhere.",
+      "packingSuggestions": [
+        "Modest clothing for mosques",
+        "Comfortable walking shoes",
+        "Scarf for women",
+        "Light layers",
+        "Power adapter"
+      ],
+      "visaInfo": "E-Visa required for many nationalities. Apply online before travel.",
+      "language": "Turkish",
+      "localLingo": [
+        "Merhaba (Hello)",
+        "Teşekkür ederim (Thank you)",
+        "Evet/Hayır (Yes/No)"
+      ],
+      "currency": "Turkish Lira (TRY)",
+      "payment": "Cash preferred in markets and smaller establishments. Cards accepted in hotels and restaurants.",
+      "powerPlugs": "Type F, 230V",
+      "healthSafety": "Generally safe. Be cautious with street food and drink bottled water. Beware of tourist scams.",
+      "hotels": [
+        {
+          "name": "Çırağan Palace Kempinski",
+          "price": "$500+",
+          "rating": "4.8",
+          "type": "Palace Hotel",
+          "location": "Bosphorus"
+        },
+        {
+          "name": "Four Seasons Hotel Istanbul at Sultanahmet",
+          "price": "$600+",
+          "rating": "4.7",
+          "type": "Luxury Prison Conversion",
+          "location": "Sultanahmet"
+        },
+        {
+          "name": "The Ritz-Carlton, Istanbul",
+          "price": "$450+",
+          "rating": "4.6",
+          "type": "Luxury",
+          "location": "Bosphorus"
+        }
+      ],
+      "accommodationZones": [
+        {
+          "name": "Sultanahmet",
+          "description": "Historic heart with major attractions within walking distance."
+        },
+        {
+          "name": "Beyoğlu & Taksim",
+          "description": "Modern center with nightlife, shopping, and dining."
+        },
+        {
+          "name": "Karaköy",
+          "description": "Trendy waterfront district with galleries and cafes."
+        },
+        {
+          "name": "Beşiktaş & Ortaköy",
+          "description": "Bosphorus views and upscale neighborhoods."
+        }
+      ],
+      "itinerary": [
+        {
+          "day": 1,
+          "theme": "Historic Sultanahmet",
+          "activities": [
+            {
+              "time": "9:00 AM",
+              "place": "Hagia Sophia",
+              "note": "Byzantine marvel turned mosque, architectural masterpiece.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "11:00 AM",
+              "place": "Blue Mosque",
+              "note": "Iconic mosque with beautiful blue Iznik tiles.",
+              "duration": "1 hour",
+              "ticket": "Free"
+            },
+            {
+              "time": "1:00 PM",
+              "place": "Basilica Cistern",
+              "note": "Underground water palace with Medusa heads.",
+              "duration": "1 hour",
+              "ticket": "~$5"
+            },
+            {
+              "time": "3:00 PM",
+              "place": "Hippodrome & German Fountain",
+              "note": "Ancient chariot racing arena remains.",
+              "duration": "45 mins",
+              "ticket": "Free"
+            }
+          ]
+        },
+        {
+          "day": 2,
+          "theme": "Palaces & Bazaars",
+          "activities": [
+            {
+              "time": "9:00 AM",
+              "place": "Topkapi Palace",
+              "note": "Ottoman sultans' palace with harem and treasures.",
+              "duration": "3 hours",
+              "ticket": "~$15"
+            },
+            {
+              "time": "1:00 PM",
+              "place": "Grand Bazaar",
+              "note": "One of world's oldest covered markets - 4,000 shops!",
+              "duration": "2 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "4:00 PM",
+              "place": "Spice Bazaar",
+              "note": "Colorful market with spices, sweets, and Turkish delight.",
+              "duration": "1 hour",
+              "ticket": "Free"
+            },
+            {
+              "time": "6:00 PM",
+              "place": "Bosphorus Sunset Cruise",
+              "note": "See palaces, mosques, and bridges from the water.",
+              "duration": "2 hours",
+              "ticket": "~$20"
+            }
+          ]
+        },
+        {
+          "day": 3,
+          "theme": "Modern Istanbul & Asian Side",
+          "activities": [
+            {
+              "time": "10:00 AM",
+              "place": "Dolmabahçe Palace",
+              "note": "Opulent 19th-century palace on Bosphorus.",
+              "duration": "2 hours",
+              "ticket": "~$10"
+            },
+            {
+              "time": "1:00 PM",
+              "place": "Istiklal Avenue & Taksim Square",
+              "note": "Historic pedestrian street with shops and cafes.",
+              "duration": "2 hours",
+              "ticket": "Free"
+            },
+            {
+              "time": "3:30 PM",
+              "place": "Ferry to Kadıköy",
+              "note": "Cross to Asian side for different perspective.",
+              "duration": "30 mins",
+              "ticket": "~$1"
+            },
+            {
+              "time": "4:30 PM",
+              "place": "Kadıköy Market",
+              "note": "Local food market and trendy neighborhood.",
+              "duration": "1.5 hours",
+              "ticket": "Free"
+            }
+          ]
+        }
+      ],
+      "extendedActivities": {
+        "cultural": [
+          "Turkish bath (hamam) experience",
+          "Whirling Dervish ceremony",
+          "Turkish coffee fortune reading"
+        ],
+        "dayTrips": [
+          "Princes' Islands",
+          "Bursa old Ottoman capital",
+          "Sile Black Sea coast"
+        ],
+        "culinary": [
+          "Turkish cooking class",
+          "Wine tasting in Thrace",
+          "Street food tour"
+        ],
+        "historical": [
+          "Chora Church mosaics",
+          "Rumeli Fortress",
+          "Archaeology Museums"
+        ]
+      },
+      "budget": {
+        "breakdown": {
+          "budget": {
+            "hotels": 250,
+            "food": 120,
+            "tickets": 80,
+            "transport": 50,
+            "total": 500
+          },
+          "midRange": {
+            "hotels": 600,
+            "food": 250,
+            "tickets": 150,
+            "transport": 100,
+            "total": 1100
+          },
+          "luxury": {
+            "hotels": 1500,
+            "food": 500,
+            "tickets": 300,
+            "transport": 200,
+            "total": 2500
+          }
+        }
+      },
+      "imageSuggestions": [
+        "Hagia Sophia interior",
+        "Blue Mosque at prayer time",
+        "Grand Bazaar colorful lanes",
+        "Bosphorus view between continents"
+      ]
+    }
+  },
+  "packingChecklists": {
+    "1745958781034": {
+      "destination": "Chicago, IL, USA",
+      "country": "United States",
+      "duration": "3 Days",
+      "travelers": "3-5 People",
+      "progress": "0 of 25 items",
+      "essentials": {
+        "title": "Essential Items",
+        "items": [
+          {
+            "id": 1,
+            "name": "Passport/ID",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 2,
+            "name": "Wallet with cash and cards",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 3,
+            "name": "Phone & charger",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 4,
+            "name": "Power bank",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 5,
+            "name": "Personal medications",
+            "category": "health",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 6,
+            "name": "Travel insurance documents",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "clothing": {
+        "title": "Clothing",
+        "items": [
+          {
+            "id": 7,
+            "name": "T-shirts/tops (3-4 pcs)",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 8,
+            "name": "Pants/jeans (2 pcs)",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 9,
+            "name": "Underwear (4 pcs)",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 10,
+            "name": "Socks (4 pcs)",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 11,
+            "name": "Sleepwear",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 12,
+            "name": "Light jacket/sweater",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "toiletries": {
+        "title": "Toiletries",
+        "items": [
+          {
+            "id": 13,
+            "name": "Toothbrush & toothpaste",
+            "category": "toiletries",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 14,
+            "name": "Deodorant",
+            "category": "toiletries",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 15,
+            "name": "Skincare products",
+            "category": "toiletries",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "destinationSpecific": {
+        "title": "Chicago-Specific Items",
+        "items": [
+          {
+            "id": 16,
+            "name": "Comfortable walking shoes",
+            "category": "footwear",
+            "packed": false,
+            "essential": true,
+            "reason": "For exploring downtown and Lakefront Trail"
+          },
+          {
+            "id": 17,
+            "name": "Day backpack",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "For museum visits and city exploration"
+          },
+          {
+            "id": 18,
+            "name": "Sunglasses",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Bright days by Lake Michigan"
+          },
+          {
+            "id": 19,
+            "name": "Compact umbrella",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Unpredictable Chicago weather"
+          },
+          {
+            "id": 20,
+            "name": "Reusable water bottle",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Stay hydrated while walking"
+          }
+        ]
+      },
+      "weatherAppropriate": {
+        "title": "Weather-Appropriate",
+        "items": [
+          {
+            "id": 21,
+            "name": "Layered clothing",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "For variable temperatures"
+          },
+          {
+            "id": 22,
+            "name": "Wind-resistant jacket",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "Windy City lakefront"
+          },
+          {
+            "id": 23,
+            "name": "Scarf (spring/fall)",
+            "category": "accessories",
+            "packed": false,
+            "essential": false,
+            "reason": "Extra layer for chilly evenings"
+          }
+        ]
+      },
+      "budgetSummary": {
+        "total": 2640,
+        "currency": "USD",
+        "breakdown": {
+          "hotels": {
+            "amount": 0,
+            "percentage": 0,
+            "color": "#FF6B6B"
+          },
+          "food": {
+            "amount": 550,
+            "percentage": 21,
+            "color": "#4ECDC4"
+          },
+          "tickets": {
+            "amount": 1100,
+            "percentage": 42,
+            "color": "#45B7D1"
+          },
+          "transport": {
+            "amount": 1650,
+            "percentage": 62,
+            "color": "#96CEB4"
+          },
+          "misc": {
+            "amount": 340,
+            "percentage": 13,
+            "color": "#FFEAA7"
+          }
+        }
+      }
+    },
+    "1745959400000": {
+      "destination": "Santorini, Greece",
+      "country": "Greece",
+      "duration": "4 Days",
+      "travelers": "2-4 People",
+      "progress": "0 of 23 items",
+      "essentials": {
+        "title": "Essential Items",
+        "items": [
+          {
+            "id": 1,
+            "name": "Passport",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 2,
+            "name": "Credit cards & some Euros",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 3,
+            "name": "Phone & EU charger",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 4,
+            "name": "Power adapter (Type C/F)",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 5,
+            "name": "Sunglasses",
+            "category": "accessories",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 6,
+            "name": "Sunscreen (high SPF)",
+            "category": "toiletries",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "clothing": {
+        "title": "Clothing",
+        "items": [
+          {
+            "id": 7,
+            "name": "Lightweight dresses/skirts",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 8,
+            "name": "Linen shirts/tops",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 9,
+            "name": "Shorts & light pants",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 10,
+            "name": "Swimsuits (2-3)",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 11,
+            "name": "Beach cover-up",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "destinationSpecific": {
+        "title": "Santorini-Specific Items",
+        "items": [
+          {
+            "id": 12,
+            "name": "Comfortable sandals",
+            "category": "footwear",
+            "packed": false,
+            "essential": true,
+            "reason": "For cobblestone streets"
+          },
+          {
+            "id": 13,
+            "name": "Strap-on sandals",
+            "category": "footwear",
+            "packed": false,
+            "essential": true,
+            "reason": "Easy to remove for beach/religious sites"
+          },
+          {
+            "id": 14,
+            "name": "Evening outfit",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "For sunset dinners in Oia"
+          },
+          {
+            "id": 15,
+            "name": "Wide-brimmed hat",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Strong Mediterranean sun"
+          },
+          {
+            "id": 16,
+            "name": "Beach bag",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "For beach days and shopping"
+          }
+        ]
+      },
+      "cultural": {
+        "title": "Cultural Considerations",
+        "items": [
+          {
+            "id": 17,
+            "name": "Modest clothing for churches",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "Cover shoulders and knees"
+          },
+          {
+            "id": 18,
+            "name": "Light scarf/shawl",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "For church visits and cool evenings"
+          }
+        ]
+      },
+      "electronics": {
+        "title": "Electronics",
+        "items": [
+          {
+            "id": 19,
+            "name": "Camera",
+            "category": "electronics",
+            "packed": false,
+            "essential": false,
+            "reason": "Stunning photo opportunities"
+          },
+          {
+            "id": 20,
+            "name": "Portable speaker",
+            "category": "electronics",
+            "packed": false,
+            "essential": false,
+            "reason": "For villa/beach relaxation"
+          },
+          {
+            "id": 21,
+            "name": "Waterproof phone case",
+            "category": "electronics",
+            "packed": false,
+            "essential": false,
+            "reason": "Beach and boat tours"
+          }
+        ]
+      },
+      "budgetSummary": {
+        "total": 2700,
+        "currency": "USD",
+        "breakdown": {
+          "hotels": {
+            "amount": 1200,
+            "percentage": 44,
+            "color": "#FF6B6B"
+          },
+          "food": {
+            "amount": 600,
+            "percentage": 22,
+            "color": "#4ECDC4"
+          },
+          "tickets": {
+            "amount": 400,
+            "percentage": 15,
+            "color": "#45B7D1"
+          },
+          "transport": {
+            "amount": 500,
+            "percentage": 19,
+            "color": "#96CEB4"
+          }
+        }
+      }
+    },
+    "1745958877022": {
+      "destination": "Bali, Indonesia",
+      "country": "Indonesia",
+      "duration": "5 Days",
+      "travelers": "2-6 People",
+      "progress": "0 of 26 items",
+      "essentials": {
+        "title": "Essential Items",
+        "items": [
+          {
+            "id": 1,
+            "name": "Passport (6+ months validity)",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 2,
+            "name": "Indonesian Rupiah cash",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 3,
+            "name": "International driver's license",
+            "category": "documents",
+            "packed": false,
+            "essential": false
+          },
+          {
+            "id": 4,
+            "name": "Phone & charger",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 5,
+            "name": "Power adapter (Type C/F)",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "clothing": {
+        "title": "Clothing",
+        "items": [
+          {
+            "id": 6,
+            "name": "Lightweight cotton clothing",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 7,
+            "name": "Swimwear (multiple)",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 8,
+            "name": "Beach cover-ups",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 9,
+            "name": "Quick-dry towel",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "cultural": {
+        "title": "Temple & Cultural Items",
+        "items": [
+          {
+            "id": 10,
+            "name": "Sarong",
+            "category": "cultural",
+            "packed": false,
+            "essential": true,
+            "reason": "Required for temple visits"
+          },
+          {
+            "id": 11,
+            "name": "Temple sash",
+            "category": "cultural",
+            "packed": false,
+            "essential": true,
+            "reason": "Often provided but good to have"
+          },
+          {
+            "id": 12,
+            "name": "Modest clothing",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "Covered shoulders and knees for temples"
+          }
+        ]
+      },
+      "health": {
+        "title": "Health & Protection",
+        "items": [
+          {
+            "id": 13,
+            "name": "Strong insect repellent",
+            "category": "health",
+            "packed": false,
+            "essential": true,
+            "reason": "Mosquito protection"
+          },
+          {
+            "id": 14,
+            "name": "Reef-safe sunscreen",
+            "category": "health",
+            "packed": false,
+            "essential": true,
+            "reason": "Protect coral reefs"
+          },
+          {
+            "id": 15,
+            "name": "Hand sanitizer",
+            "category": "health",
+            "packed": false,
+            "essential": true,
+            "reason": "General hygiene"
+          },
+          {
+            "id": 16,
+            "name": "Basic first aid kit",
+            "category": "health",
+            "packed": false,
+            "essential": true,
+            "reason": "Minor injuries"
+          }
+        ]
+      },
+      "adventure": {
+        "title": "Adventure Gear",
+        "items": [
+          {
+            "id": 17,
+            "name": "Hiking shoes",
+            "category": "footwear",
+            "packed": false,
+            "essential": false,
+            "reason": "Rice terrace hikes"
+          },
+          {
+            "id": 18,
+            "name": "Water shoes",
+            "category": "footwear",
+            "packed": false,
+            "essential": false,
+            "reason": "Rocky beaches & water activities"
+          },
+          {
+            "id": 19,
+            "name": "Daypack",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "For daily excursions"
+          },
+          {
+            "id": 20,
+            "name": "Waterproof bag",
+            "category": "accessories",
+            "packed": false,
+            "essential": false,
+            "reason": "Boat trips and waterfalls"
+          }
+        ]
+      },
+      "budgetSummary": {
+        "total": 2500,
+        "currency": "USD",
+        "breakdown": {
+          "hotels": {
+            "amount": 1300,
+            "percentage": 52,
+            "color": "#FF6B6B"
+          },
+          "food": {
+            "amount": 500,
+            "percentage": 20,
+            "color": "#4ECDC4"
+          },
+          "tickets": {
+            "amount": 300,
+            "percentage": 12,
+            "color": "#45B7D1"
+          },
+          "transport": {
+            "amount": 400,
+            "percentage": 16,
+            "color": "#96CEB4"
+          }
+        }
+      }
+    },
+    "1745959000000": {
+      "destination": "Kyoto, Japan",
+      "country": "Japan",
+      "duration": "4 Days",
+      "travelers": "1-3 People",
+      "progress": "0 of 24 items",
+      "essentials": {
+        "title": "Essential Items",
+        "items": [
+          {
+            "id": 1,
+            "name": "Passport",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 2,
+            "name": "IC Card (Suica/Pasmo)",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 3,
+            "name": "Japanese Yen cash",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 4,
+            "name": "Phone & portable WiFi",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 5,
+            "name": "Power adapter (Type A/B)",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "clothing": {
+        "title": "Clothing",
+        "items": [
+          {
+            "id": 6,
+            "name": "Comfortable walking shoes",
+            "category": "footwear",
+            "packed": false,
+            "essential": true,
+            "reason": "Easy to remove for temples"
+          },
+          {
+            "id": 7,
+            "name": "Slip-on shoes",
+            "category": "footwear",
+            "packed": false,
+            "essential": true,
+            "reason": "Easy temple access"
+          },
+          {
+            "id": 8,
+            "name": "Modest clothing",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "Conservative dress for temples"
+          },
+          {
+            "id": 9,
+            "name": "Layered outfits",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "Variable temperatures"
+          }
+        ]
+      },
+      "cultural": {
+        "title": "Temple & Cultural Items",
+        "items": [
+          {
+            "id": 10,
+            "name": "Clean socks",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "You'll remove shoes frequently"
+          },
+          {
+            "id": 11,
+            "name": "Small coin purse",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "For temple donations and bus fare"
+          },
+          {
+            "id": 12,
+            "name": "Hand towel",
+            "category": "toiletries",
+            "packed": false,
+            "essential": true,
+            "reason": "Many restrooms lack paper towels"
+          }
+        ]
+      },
+      "seasonal": {
+        "title": "Seasonal Items",
+        "items": [
+          {
+            "id": 13,
+            "name": "Portable umbrella",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Frequent rain showers"
+          },
+          {
+            "id": 14,
+            "name": "Light rain jacket",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "Spring/fall rains"
+          },
+          {
+            "id": 15,
+            "name": "Warm layers (winter)",
+            "category": "clothing",
+            "packed": false,
+            "essential": false,
+            "reason": "Cold temple visits"
+          },
+          {
+            "id": 16,
+            "name": "Cool clothing (summer)",
+            "category": "clothing",
+            "packed": false,
+            "essential": false,
+            "reason": "Hot and humid"
+          }
+        ]
+      },
+      "technology": {
+        "title": "Technology",
+        "items": [
+          {
+            "id": 17,
+            "name": "Google Translate app",
+            "category": "digital",
+            "packed": false,
+            "essential": true,
+            "reason": "Language barrier"
+          },
+          {
+            "id": 18,
+            "name": "Power bank",
+            "category": "electronics",
+            "packed": false,
+            "essential": true,
+            "reason": "Full days of navigation"
+          },
+          {
+            "id": 19,
+            "name": "Camera",
+            "category": "electronics",
+            "packed": false,
+            "essential": false,
+            "reason": "Beautiful temples and gardens"
+          }
+        ]
+      },
+      "budgetSummary": {
+        "total": 1900,
+        "currency": "USD",
+        "breakdown": {
+          "hotels": {
+            "amount": 1000,
+            "percentage": 53,
+            "color": "#FF6B6B"
+          },
+          "food": {
+            "amount": 400,
+            "percentage": 21,
+            "color": "#4ECDC4"
+          },
+          "tickets": {
+            "amount": 200,
+            "percentage": 10,
+            "color": "#45B7D1"
+          },
+          "transport": {
+            "amount": 300,
+            "percentage": 16,
+            "color": "#96CEB4"
+          }
+        }
+      }
+    },
+    "1745959100000": {
+      "destination": "Paris, France",
+      "country": "France",
+      "duration": "4 Days",
+      "travelers": "2 People",
+      "progress": "0 of 25 items",
+      "essentials": {
+        "title": "Essential Items",
+        "items": [
+          {
+            "id": 1,
+            "name": "Passport/ID",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 2,
+            "name": "Euro cash & credit cards",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 3,
+            "name": "Phone & EU charger",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 4,
+            "name": "Power adapter (Type E)",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 5,
+            "name": "Copy of important documents",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "clothing": {
+        "title": "Parisian Style",
+        "items": [
+          {
+            "id": 6,
+            "name": "Chic comfortable clothing",
+            "category": "clothing",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 7,
+            "name": "Comfortable walking shoes",
+            "category": "footwear",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 8,
+            "name": "Dressier outfit",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "For nice dinners"
+          },
+          {
+            "id": 9,
+            "name": "Light scarf",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "French style + church visits"
+          }
+        ]
+      },
+      "security": {
+        "title": "Security Items",
+        "items": [
+          {
+            "id": 10,
+            "name": "Crossbody bag",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Pickpocket protection"
+          },
+          {
+            "id": 11,
+            "name": "Money belt",
+            "category": "accessories",
+            "packed": false,
+            "essential": false,
+            "reason": "Extra security"
+          },
+          {
+            "id": 12,
+            "name": "Bag locks",
+            "category": "accessories",
+            "packed": false,
+            "essential": false,
+            "reason": "For hostel stays"
+          }
+        ]
+      },
+      "exploration": {
+        "title": "Exploration Gear",
+        "items": [
+          {
+            "id": 13,
+            "name": "Compact umbrella",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Parisian showers"
+          },
+          {
+            "id": 14,
+            "name": "Reusable water bottle",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Stay hydrated while walking"
+          },
+          {
+            "id": 15,
+            "name": "City map app",
+            "category": "digital",
+            "packed": false,
+            "essential": true,
+            "reason": "Metro navigation"
+          },
+          {
+            "id": 16,
+            "name": "Museum pass reservations",
+            "category": "documents",
+            "packed": false,
+            "essential": true,
+            "reason": "Skip-the-line access"
+          }
+        ]
+      },
+      "budgetSummary": {
+        "total": 3000,
+        "currency": "USD",
+        "breakdown": {
+          "hotels": {
+            "amount": 1400,
+            "percentage": 47,
+            "color": "#FF6B6B"
+          },
+          "food": {
+            "amount": 700,
+            "percentage": 23,
+            "color": "#4ECDC4"
+          },
+          "tickets": {
+            "amount": 500,
+            "percentage": 17,
+            "color": "#45B7D1"
+          },
+          "transport": {
+            "amount": 400,
+            "percentage": 13,
+            "color": "#96CEB4"
+          }
+        }
+      }
+    },
+    "1745959200000": {
+      "destination": "Istanbul, Turkey",
+      "country": "Turkey",
+      "duration": "4 Days",
+      "travelers": "2-4 People",
+      "progress": "0 of 26 items",
+      "essentials": {
+        "title": "Essential Items",
+        "items": [
+          {
+            "id": 1,
+            "name": "Passport",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 2,
+            "name": "Turkish Lira cash",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 3,
+            "name": "Phone & charger",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 4,
+            "name": "Power adapter (Type F)",
+            "category": "electronics",
+            "packed": false,
+            "essential": true
+          },
+          {
+            "id": 5,
+            "name": "Visa documents",
+            "category": "documents",
+            "packed": false,
+            "essential": true
+          }
+        ]
+      },
+      "clothing": {
+        "title": "Modest Clothing",
+        "items": [
+          {
+            "id": 6,
+            "name": "Scarf for mosque visits",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Head covering required"
+          },
+          {
+            "id": 7,
+            "name": "Modest clothing",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "Cover knees and shoulders"
+          },
+          {
+            "id": 8,
+            "name": "Comfortable walking shoes",
+            "category": "footwear",
+            "packed": false,
+            "essential": true,
+            "reason": "Cobblestone streets"
+          },
+          {
+            "id": 9,
+            "name": "Layered clothing",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "Variable climate"
+          }
+        ]
+      },
+      "cultural": {
+        "title": "Cultural Items",
+        "items": [
+          {
+            "id": 10,
+            "name": "Slip-on shoes",
+            "category": "footwear",
+            "packed": false,
+            "essential": true,
+            "reason": "Easy removal for mosques"
+          },
+          {
+            "id": 11,
+            "name": "Socks",
+            "category": "clothing",
+            "packed": false,
+            "essential": true,
+            "reason": "Mosque visits"
+          },
+          {
+            "id": 12,
+            "name": "Small bag for shoes",
+            "category": "accessories",
+            "packed": false,
+            "essential": false,
+            "reason": "Carry shoes in mosques"
+          }
+        ]
+      },
+      "exploration": {
+        "title": "Exploration Gear",
+        "items": [
+          {
+            "id": 13,
+            "name": "Reusable water bottle",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Stay hydrated"
+          },
+          {
+            "id": 14,
+            "name": "Day backpack",
+            "category": "accessories",
+            "packed": false,
+            "essential": true,
+            "reason": "Bazaar shopping"
+          },
+          {
+            "id": 15,
+            "name": "Hand sanitizer",
+            "category": "toiletries",
+            "packed": false,
+            "essential": true,
+            "reason": "Markets and street food"
+          },
+          {
+            "id": 16,
+            "name": "Small shopping bag",
+            "category": "accessories",
+            "packed": false,
+            "essential": false,
+            "reason": "Bazaar purchases"
+          }
+        ]
+      },
+      "budgetSummary": {
+        "total": 2100,
+        "currency": "USD",
+        "breakdown": {
+          "hotels": {
+            "amount": 1100,
+            "percentage": 52,
+            "color": "#FF6B6B"
+          },
+          "food": {
+            "amount": 450,
+            "percentage": 21,
+            "color": "#4ECDC4"
+          },
+          "tickets": {
+            "amount": 350,
+            "percentage": 17,
+            "color": "#45B7D1"
+          },
+          "transport": {
+            "amount": 200,
+            "percentage": 10,
+            "color": "#96CEB4"
+          }
+        }
+      }
+    }
+  },
+  "checklistUtils": {
+    "getTotalProgress": "function(checklistId) { /* implementation */ }",
+    "getBudgetBreakdown": "function(checklistId) { /* implementation */ }",
+    "toggleItem": "function(checklistId, section, itemId) { /* implementation */ }"
+  }
+}
