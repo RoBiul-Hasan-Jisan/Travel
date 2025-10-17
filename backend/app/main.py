@@ -5,7 +5,7 @@ import pandas as pd
 import joblib
 import os
 import gdown
-import uvicorn
+import threading
 
 # Google Drive file URLs
 MODEL_FILE_URL = "https://drive.google.com/uc?id=16Rx_6_ksbbkQKeMNmj3IWgDKj30mN8Kq"
@@ -26,14 +26,29 @@ def download_file(url: str, dest_path: str):
     else:
         print(f"{os.path.basename(dest_path)} already exists.")
 
-download_file(MODEL_FILE_URL, MODEL_PATH)
-download_file(FEATURE_ENCODERS_FILE_URL, FEATURE_ENCODERS_PATH)
-download_file(TARGET_ENCODER_FILE_URL, TARGET_ENCODER_PATH)
+# Download in a separate thread to not block startup
+download_thread = threading.Thread(target=lambda: (
+    download_file(MODEL_FILE_URL, MODEL_PATH),
+    download_file(FEATURE_ENCODERS_FILE_URL, FEATURE_ENCODERS_PATH),
+    download_file(TARGET_ENCODER_FILE_URL, TARGET_ENCODER_PATH)
+))
+download_thread.start()
+download_thread.join()
 
-# Load models
-model = joblib.load(MODEL_PATH)
-feature_encoders = joblib.load(FEATURE_ENCODERS_PATH)
-target_encoder = joblib.load(TARGET_ENCODER_PATH)
+# Lazy loading globals
+model = None
+feature_encoders = None
+target_encoder = None
+
+def load_resources():
+    """Load model and encoders only once"""
+    global model, feature_encoders, target_encoder
+    if model is None:
+        print("Loading model and encoders into memory...")
+        model = joblib.load(MODEL_PATH)
+        feature_encoders = joblib.load(FEATURE_ENCODERS_PATH)
+        target_encoder = joblib.load(TARGET_ENCODER_PATH)
+        print("Model and encoders loaded.")
 
 # Initialize FastAPI
 app = FastAPI(title="Travel Destination Recommender")
@@ -64,6 +79,9 @@ def root():
 # Prediction endpoint
 @app.post("/predict")
 def predict_destination(data: TravelInput):
+    # Ensure model and encoders are loaded
+    load_resources()
+
     df = pd.DataFrame([data.dict()])
 
     # Encode features
@@ -72,7 +90,7 @@ def predict_destination(data: TravelInput):
             try:
                 df[col] = le.transform(df[col])
             except ValueError:
-                df[col] = -1 
+                df[col] = -1
 
     # Predict
     pred_encoded = model.predict(df)[0]
@@ -82,5 +100,6 @@ def predict_destination(data: TravelInput):
 
 # Run server for Render
 if __name__ == "__main__":
-    port = int(os.environ.get("PORT", 8000)) 
+    import uvicorn
+    port = int(os.environ.get("PORT", 8000))
     uvicorn.run(app, host="0.0.0.0", port=port)
