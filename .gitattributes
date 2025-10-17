@@ -1,0 +1,2 @@
+backend/*.joblib filter=lfs diff=lfs merge=lfs -text
+backend/app/*.joblib filter=lfs diff=lfs merge=lfs -text
