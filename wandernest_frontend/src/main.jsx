@@ -16,6 +16,7 @@ import UserManual from './components/pages/UserManual.jsx'
 import Office from './components/pages/Office.jsx'
 import JoinUs from './components/pages/joinus.jsx'
 import TripDetails from './components/Trips/TripDetails'
+import AISuggestionPage from "./components/pages/AISuggestionPage";
 const router=createBrowserRouter([
   {
     path:'/',
@@ -59,7 +60,11 @@ const router=createBrowserRouter([
   element: <TripDetails />
 },
 
+  {
+    path: '/ai-suggestion',               
+    element: <AISuggestionPage />,
 
+  },
   {
     path: '/offices',               
     element: <Office />,

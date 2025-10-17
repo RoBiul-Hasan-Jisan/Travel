@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react'
 import { MdOutlineAutoAwesome, MdTravelExplore } from 'react-icons/md'
 import { Globe, ArrowRight, Sparkles } from 'lucide-react'
+import { Link } from 'react-router-dom'
 
 import HeroImage from './Hero/HeroImage'
 import AIPredictions from './Hero/AIPredictions'
@@ -72,10 +73,13 @@ function Hero() {
                 <ArrowRight className="w-5 h-5 ml-2" />
               </a>
 
-              <button className="inline-flex items-center justify-center gap-3 px-8 py-4 bg-white/5 backdrop-blur-md border border-white/20 text-white rounded-2xl shadow-2xl font-bold transition-all duration-300">
-                <MdTravelExplore className="w-6 h-6" />
-                <span>AI Suggestions</span>
-              </button>
+              <Link to="/ai-suggestion">
+  <button className="inline-flex items-center justify-center gap-3 px-8 py-4 bg-white/5 backdrop-blur-md border border-white/20 text-white rounded-2xl shadow-2xl font-bold transition-all duration-300 hover:bg-white/10 cursor-pointer">
+    <MdTravelExplore className="w-6 h-6" />
+    <span>AI Suggestions</span>
+  </button>
+</Link>
+
             </div>
 
             {/* Hero Search */}
