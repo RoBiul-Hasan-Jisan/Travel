@@ -7,12 +7,15 @@ WORKDIR /app
 # Install system dependencies
 RUN apt-get update && apt-get install -y wget && rm -rf /var/lib/apt/lists/*
 
-# Copy project files
-COPY . .
+# Copy only requirements first (better caching)
+COPY requirements.txt .
 
 # Upgrade pip and install Python dependencies
 RUN pip install --upgrade pip
 RUN pip install -r requirements.txt
+
+# Copy the rest of the project
+COPY . .
 
 # Download models from Google Drive at build time
 RUN python -c "import gdown; gdown.download('https://drive.google.com/uc?id=16Rx_6_ksbbkQKeMNmj3IWgDKj30mN8Kq', 'travel_rf_model.joblib', quiet=False)"
