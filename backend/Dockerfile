@@ -2,9 +2,7 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-# Copy backend files into container
-COPY app ./app
-COPY requirements.txt .
+COPY . .
 
 # Install dependencies
 RUN pip install --upgrade pip
