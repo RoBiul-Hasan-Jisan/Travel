@@ -5,6 +5,7 @@ import pandas as pd
 import joblib
 import os
 import gdown
+import uvicorn
 
 # Google Drive file URLs
 MODEL_FILE_URL = "https://drive.google.com/uc?id=16Rx_6_ksbbkQKeMNmj3IWgDKj30mN8Kq"
@@ -71,10 +72,15 @@ def predict_destination(data: TravelInput):
             try:
                 df[col] = le.transform(df[col])
             except ValueError:
-                df[col] = -1  # Unknown category
+                df[col] = -1 
 
     # Predict
     pred_encoded = model.predict(df)[0]
     destination = target_encoder.inverse_transform([pred_encoded])[0]
 
     return {"recommended_destination": destination}
+
+# Run server for Render
+if __name__ == "__main__":
+    port = int(os.environ.get("PORT", 8000)) 
+    uvicorn.run(app, host="0.0.0.0", port=port)
