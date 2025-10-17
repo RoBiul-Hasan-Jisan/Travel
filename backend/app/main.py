@@ -29,9 +29,7 @@ def download_all_files():
     download_file(FEATURE_ENCODERS_FILE_URL, FEATURE_ENCODERS_PATH)
     download_file(TARGET_ENCODER_FILE_URL, TARGET_ENCODER_PATH)
 
-download_thread = threading.Thread(target=download_all_files)
-download_thread.start()
-download_thread.join()
+threading.Thread(target=download_all_files, daemon=True).start()
 
 model = None
 feature_encoders = None
@@ -47,21 +45,17 @@ def load_resources():
         print("Model and encoders loaded.")
 
 # Initialize FastAPI
-
 app = FastAPI(title="Travel Destination Recommender API")
 
-# Enable CORS for all origins (React frontend)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=["*"],  
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
-
 # Input schema
-
 class TravelInput(BaseModel):
     Budget: str
     Climate: str
@@ -70,18 +64,13 @@ class TravelInput(BaseModel):
     Season: str
     Region: str
 
-
-# Health check endpoint
-
 @app.get("/")
 def root():
     return {"message": "Travel Destination Recommender API is running!"}
 
-
 # Prediction endpoint
-
 @app.post("/predict")
-def predict_destination(data: TravelInput):
+async def predict_destination(data: TravelInput):
     try:
         load_resources()
         df = pd.DataFrame([data.dict()])
@@ -92,9 +81,8 @@ def predict_destination(data: TravelInput):
                 try:
                     df[col] = le.transform(df[col])
                 except ValueError:
-                    df[col] = -1  # unknown category fallback
+                    df[col] = -1 
 
-        # Predict destination
         pred_encoded = model.predict(df)[0]
         destination = target_encoder.inverse_transform([pred_encoded])[0]
 
@@ -104,10 +92,7 @@ def predict_destination(data: TravelInput):
         print(f"Prediction error: {e}")
         return {"error": "Prediction failed. Please check input values."}
 
-
-# Run server for Render
-
 if __name__ == "__main__":
     import uvicorn
-    port = int(os.environ.get("PORT", 8000))
+    port = int(os.environ.get("PORT", 10000))  
     uvicorn.run(app, host="0.0.0.0", port=port)
